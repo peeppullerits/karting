@@ -1,3 +1,10 @@
 /bin/*
 /karting.h2.db
 /karting.trace.db
+
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
